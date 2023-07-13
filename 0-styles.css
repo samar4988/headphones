@@ -25,7 +25,7 @@ body{
     flex-shrink: o;
 }
 .upper{
-    background-image: url(headphones/images/headphones_hero_1.jpg);
+    background-image: url(images/headphones_hero_1.jpg);
     background-repeat: no-repeat;
     background-size: 1920px 1080px; 
     background-position: -575px -100px; 
